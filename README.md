@@ -79,7 +79,7 @@ Para que a aplicação funcione corretamente, você precisará rodar o backend e
 Abra um terminal e navegue até a pasta `backend`:
 
 ```
-cd path/to/your/project/weather-backend
+cd path/to/your/project/backend
 node server.js
 ````
 
@@ -90,7 +90,7 @@ Você deverá ver a mensagem: `Backend rodando em http://localhost:3001`. Manten
 Abra *outro* terminal e navegue até a pasta `frontend`:
 
 ```
-cd path/to/your/project/weather-frontend
+cd path/to/your/project/frontend
 npm start
 ```
 
